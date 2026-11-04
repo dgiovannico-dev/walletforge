@@ -1,0 +1,12 @@
+.DS_Store
+.idea/
+*.iml
+.vscode/
+**/target/
+**/node_modules/
+**/dist/
+.angular/
+.env
+.env.*
+!.env.example
+*.log
